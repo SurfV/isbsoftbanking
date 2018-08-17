@@ -1,0 +1,9 @@
+package-lock.json
+isbsmartapp/node_modules
+isbsmartapp/platforms/android/app/build
+isbsmartapp/platforms/android/app/libs/runtime-libs
+isbsmartapp/platforms/android/app/src/main/assets/app/tns_modules
+isbsmartapp/platforms/android/build-tools
+isbsmartapp/platforms/android/build
+isbsmartapp/platforms/ios/build
+isbsmartapp/platforms/ios/internal

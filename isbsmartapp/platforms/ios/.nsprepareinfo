@@ -1,0 +1,19 @@
+{
+	"time": "Fri Aug 17 2018 17:00:30 GMT+0300 (EEST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": true,
+	"projectFileHash": "17757400731b6a5f6653e7855864ac9f02ed6fd94dfc6649837cd5cb843f318c",
+	"changesRequireBuildTime": "Fri Aug 17 2018 17:00:30 GMT+0300 (EEST)",
+	"appFilesHashes": {
+		"/Users/vasylb/hackaton/isbsoftbanking/isbsmartapp/app/app.js": "b99b8400f3d679ef0e4da0ccd015592281d4eae0",
+		"/Users/vasylb/hackaton/isbsoftbanking/isbsmartapp/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/Users/vasylb/hackaton/isbsoftbanking/isbsmartapp/app/app-root.xml": "900a386cb2d8abc9573413eb3aff45448dcd3608",
+		"/Users/vasylb/hackaton/isbsoftbanking/isbsmartapp/app/main-page.js": "e3dfd3fc75a4d41d3c3ea69bbfc2e52159919e19",
+		"/Users/vasylb/hackaton/isbsoftbanking/isbsmartapp/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/Users/vasylb/hackaton/isbsoftbanking/isbsmartapp/app/main-page.xml": "dadb79414737be842940881ad61a8bed20080077",
+		"/Users/vasylb/hackaton/isbsoftbanking/isbsmartapp/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"/Users/vasylb/hackaton/isbsoftbanking/isbsmartapp/app/main-view-model.js": "f977a52b4fb31fe984415623f7597e914c24750d"
+	}
+}
